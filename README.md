@@ -1,23 +1,25 @@
-# Exercise to Book Chapter mapping
+The exercises is update at 2020/11/04 from official repo！
+
+Progress: [######################################>---------------------] 60/94
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
 | :heavy_check_mark: variables              | §3.1                |
 | :heavy_check_mark: functions              | §3.3                |
-| if                     | §3.5                |
-| primitive_types        | §3.2, §4.3          |
-| vecs                   | §8.1                |
-| move_semantics         | §4.1, §4.2          |
-| structs                | §5.1, §5.3          |
-| enums                  | §6, §18.3           |
-| strings                | §8.2                |
-| modules                | §7                  |
-| hashmaps               | §8.3                |
-| options                | §10.1               |
-| error_handling         | §9                  |
-| generics               | §10                 |
-| traits                 | §10.2               |
-| tests                  | §11.1               |
+| :heavy_check_mark: if                     | §3.5                |
+| :heavy_check_mark: primitive_types        | §3.2, §4.3          |
+| :heavy_check_mark: vecs                   | §8.1                |
+| :heavy_check_mark: move_semantics         | §4.1, §4.2          |
+| :heavy_check_mark: structs                | §5.1, §5.3          |
+| :heavy_check_mark: enums                  | §6, §18.3           |
+| :heavy_check_mark: strings                | §8.2                |
+| :heavy_check_mark: modules                | §7                  |
+| :heavy_check_mark: hashmaps               | §8.3                |
+| :heavy_check_mark: options                | §10.1               |
+| :heavy_check_mark: error_handling         | §9                  |
+| :heavy_check_mark: generics               | §10                 |
+| :heavy_check_mark: traits                 | §10.2               |
+| :heavy_check_mark: tests                  | §11.1               |
 | lifetimes              | §10.3               |
 | standard_library_types | §13.2, §15.1, §16.3 |
 | threads                | §16.1, §16.2, §16.3 |
