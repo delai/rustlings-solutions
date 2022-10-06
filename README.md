@@ -1,6 +1,6 @@
 The exercises is update at 2020/11/04 from official repo！
 
-Progress: [#############################################>--------------] 71/94
+Progress: [###################################################>--------] 80/94
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
@@ -21,7 +21,7 @@ Progress: [#############################################>--------------] 71/94
 | :heavy_check_mark: traits                 | §10.2               |
 | :heavy_check_mark: tests                  | §11.1               |
 | :heavy_check_mark: lifetimes              | §10.3               |
-| standard_library_types | §13.2, §15.1, §16.3 |
+| :heavy_check_mark: standard_library_types | §13.2, §15.1, §16.3 |
 | threads                | §16.1, §16.2, §16.3 |
 | macros                 | §19.6               |
 | clippy                 | n/a                 |
