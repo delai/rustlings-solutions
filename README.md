@@ -1,6 +1,6 @@
 The exercises is update at 2020/11/04 from official repo！
 
-Progress: [##########################################>-----------------] 67/94
+Progress: [#############################################>--------------] 71/94
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
@@ -20,16 +20,26 @@ Progress: [##########################################>-----------------] 67/94
 | :heavy_check_mark: generics               | §10                 |
 | :heavy_check_mark: traits                 | §10.2               |
 | :heavy_check_mark: tests                  | §11.1               |
-| lifetimes              | §10.3               |
+| :heavy_check_mark: lifetimes              | §10.3               |
 | standard_library_types | §13.2, §15.1, §16.3 |
 | threads                | §16.1, §16.2, §16.3 |
 | macros                 | §19.6               |
 | clippy                 | n/a                 |
 | conversions            | n/a                 |
 
-
-
-
+## Quick Start
+* run
+```
+rustlings watch
+```
+* help for last edited（or current） exercise code
+```
+hint
+```
+* check progress
+```
+rustlings list
+```
 
 # rustlings 🦀❤️
 
